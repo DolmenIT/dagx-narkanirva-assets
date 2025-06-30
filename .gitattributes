@@ -1,0 +1,5 @@
+# Prevent AI training
+*.png -diff
+*.jpg -diff
+*.mp3 -diff
+*.zip -diff
