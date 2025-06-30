@@ -1,4 +1,4 @@
-# DAGX Narkanirva Assets
+# DAGX Narka Nirva Assets
 
 **PRIVATE REPOSITORY - NOT OPEN SOURCE**
 
