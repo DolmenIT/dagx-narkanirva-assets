@@ -30,6 +30,19 @@ This repository is public to allow:
 - Redistributing content
 - Commercial use without permission
 
+## AI Usage Policy
+
+**❌ STRICTLY FORBIDDEN:**
+- Using this content for AI training
+- Including in AI datasets
+- Feeding to AI models or chatbots
+- AI-powered analysis or reproduction
+
+**Why?**
+- Protects against unauthorized AI training
+- Preserves human creativity and originality
+- Respects the work of human developers and artists
+
 ## Contact
 
 For collaboration or licensing: contact@dolmenit.com
