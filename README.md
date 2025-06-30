@@ -1,20 +1,35 @@
-# DAGX Narka Nirva Assets
+# DAGX Narkanirva Assets
 
-**PRIVATE REPOSITORY - NOT OPEN SOURCE**
+**PUBLIC REPOSITORY - VIEW ONLY**
 
 This repository contains assets for the DAGX Narkanirva mobile application.
 
+## Purpose
+
+This repository is public to allow:
+- ✅ **Viewing** the structure and organization
+- ✅ **Learning** from the implementation approach
+- ✅ **CDN access** via jsDelivr for the application
+
 ## Copyright Notice
 
-- **Code and Assets**: Copyright (c) 2025 DOLMENIT - All rights reserved
-- **Graphics**: Licensed from GameDevMarket.net - Commercial use only
-- **Distribution**: Not authorized without written permission
+- **Code and Assets**: Copyright (c) 2025 DOLMENIT
+- **Graphics**: Licensed from GameDevMarket.net
+- **Viewing**: Allowed and encouraged
+- **Copying/Reuse**: Not authorized without permission
 
-## Usage
+## Usage Policy
 
-This repository is public only for CDN access via jsDelivr.
-All content is proprietary and protected by copyright.
+**✅ Allowed:**
+- Viewing the code and structure
+- Learning from the implementation
+- Using the CDN links in the authorized application
+
+**❌ Not Allowed:**
+- Copying assets or code
+- Redistributing content
+- Commercial use without permission
 
 ## Contact
 
-For licensing inquiries: contact@dolmenagx.com
+For collaboration or licensing: contact@dolmenit.com
