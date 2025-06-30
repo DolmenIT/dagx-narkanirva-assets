@@ -45,4 +45,4 @@ This repository is public to allow:
 
 ## Contact
 
-For collaboration or licensing: contact@dolmenit.com
+For collaboration or licensing: contact@dolmenagx.com
